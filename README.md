@@ -5,19 +5,22 @@
 </div>
 	
 ### Introduction
+* * *
 	
-Hello World! <br>
+* Hello World! <br>
 I'm a backend developer who always thinks about what code is easy to read and easy to write.
 
 ### Interests
+* * *
 	
-Flask, Python, SQLAlchemy, MySQL<br>
-Service with ML/DL
+* Flask, Python, SQLAlchemy, MySQL<br>
+* Service with ML/DL
 
 ### Studying
+* * *
 
-Spring, Java, JPA<br>
-Search Engine
+* Spring, Java, JPA<br>
+* Search Engine
 	
 <div align=center>
 
