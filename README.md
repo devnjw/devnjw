@@ -6,16 +6,12 @@
 
 </div>
 
-[![Notion Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-	
+[![Notion Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)](https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/devnjw)](https://github.com/devnjw)
 	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/진우-남-816760124)](https://www.linkedin.com/in/진우-남-816760124)
 	
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCcCv73G3SaYPyv2uBeRj3Lw)](https://www.youtube.com/channel/UCcCv73G3SaYPyv2uBeRj3Lw)
 	
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
-	
-	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devnjw@gmail.com)](mailto:devnjw@gmail.com)
