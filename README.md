@@ -4,20 +4,17 @@
 
 </div>
 	
-### Introduction
-* * *
+## Introduction
 	
 * Hello World! <br>
 * I am a backend developer who always thinks about what code is easy to read and easy to write.
 
-### Interests
-* * *
+## Interests
 	
 * Flask, Python, SQLAlchemy, MySQL<br>
 * Service with ML/DL
 
-### Studying
-* * *
+## Studying
 
 * Spring, Java, JPA<br>
 * Search Engine
