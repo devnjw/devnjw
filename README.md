@@ -6,6 +6,8 @@
 
 </div>
 
+<div align=center>
+
 [![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)](https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)
   
 [![Tstory Badge](http://img.shields.io/badge/-Blog-20C997?style=flat-square&link=https://mapadubak.tistory.com/)](https://mapadubak.tistory.com/)
@@ -15,3 +17,5 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCcCv73G3SaYPyv2uBeRj3Lw)](https://www.youtube.com/channel/UCcCv73G3SaYPyv2uBeRj3Lw)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devnjw@gmail.com)](mailto:devnjw@gmail.com)
+
+</div>
