@@ -8,7 +8,7 @@
 * * *
 	
 * Hello World! <br>
-I'm a backend developer who always thinks about what code is easy to read and easy to write.
+* I am a backend developer who always thinks about what code is easy to read and easy to write.
 
 ### Interests
 * * *
