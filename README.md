@@ -8,7 +8,7 @@
 
 [![Notion Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)](https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/devnjw)](https://github.com/devnjw)
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/devnjw)](https://github.com/devnjw)
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/진우-남-816760124)](https://www.linkedin.com/in/진우-남-816760124)
 	
