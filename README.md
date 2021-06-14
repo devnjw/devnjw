@@ -13,6 +13,7 @@
 	
 * Flask, Python, SQLAlchemy, MySQL<br>
 * Service with ML/DL
+* Problem Solving with C/C++
 
 ## Studying
 
