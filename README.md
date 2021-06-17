@@ -12,7 +12,7 @@
 ## Interests
 	
 * Flask, Python, SQLAlchemy, MySQL<br>
-* Service with ML/DL
+* WEB/APP Service with ML/DL
 * Problem Solving with C/C++
 
 ## Studying
