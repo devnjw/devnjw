@@ -17,7 +17,7 @@
 
 ## Studying
 
-* Spring, Java, JPA<br>
+<!-- * Spring, Java, JPA<br> -->
 * Search Engine
 	
 <div align=center>
