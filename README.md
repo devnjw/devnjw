@@ -19,6 +19,7 @@
 
 <!-- * Spring, Java, JPA<br> -->
 * Search Engine
+* Image Retrieval
 	
 <div align=center>
 
