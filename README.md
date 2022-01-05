@@ -17,9 +17,9 @@
 
 ## Studying
 
-<!-- * Spring, Java, JPA<br> -->
-* Search Engine
-* Image Retrieval
+* Django, DRF
+* Docker
+* K8S
 	
 <div align=center>
 
