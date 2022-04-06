@@ -19,7 +19,8 @@
 
 * Django, DRF
 * Docker
-* K8S
+* K8S, Operator
+* Golang
 	
 <div align=center>
 
