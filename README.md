@@ -7,20 +7,13 @@
 ## Introduction
 	
 * Hello World! <br>
-* I am a backend developer who always thinks about what code is easy to read and easy to write.
+* I am a software engineer who wants to solve the bottleneck between AI research and real-world service.
 
 ## Interests
-	
-* Flask, Python, SQLAlchemy, MySQL<br>
-* WEB/APP Service with ML/DL
-* Problem Solving with C/C++
 
-## Studying
-
-* Django, DRF
-* Docker
-* K8S, Operator
-* Golang
+* Django, DRF, Flask, FastAPI
+* Docker, K8S, Operator, Golang
+* Real-world problem solving
 	
 <div align=center>
 
