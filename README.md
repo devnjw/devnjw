@@ -18,7 +18,7 @@
 <div align=center>
 
 [![Notion Badge](http://img.shields.io/badge/-Projects-black?style=flat-square&logo=notion&link=https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)](https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/진우-남-816760124)](https://www.linkedin.com/in/진우-남-816760124)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinwoo-nam-21600212)](https://www.linkedin.com/in/jinwoo-nam-21600212)
 	
 <!-- [![Tstory Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://mapadubak.tistory.com/)](https://mapadubak.tistory.com/) -->
 <!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCcCv73G3SaYPyv2uBeRj3Lw)](https://www.youtube.com/channel/UCcCv73G3SaYPyv2uBeRj3Lw) -->
