@@ -7,17 +7,17 @@
 ## Introduction
 	
 * Hello World! <br>
-* I am a software engineer who wants to solve the bottleneck between AI research and real-world service.
+* I am a software engineer who wants to solve the bottleneck between AI research and real-world problem.
 
 ## Interests
 
-* Django, DRF, Flask, FastAPI
+* Django, DRF, FastAPI
 * Docker, K8S, Operator, Golang
 * Real-world problem solving
 	
 <div align=center>
 
-[![Notion Badge](http://img.shields.io/badge/-Projects-black?style=flat-square&logo=notion&link=https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)](https://www.notion.so/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d)
+[![Notion Badge](http://img.shields.io/badge/-Projects-black?style=flat-square&logo=notion&link=https://devnjw.notion.site/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d?pvs=4)](https://devnjw.notion.site/Win-or-Grow-c02b7bbe059e466cb81ee3e60817584d?pvs=4)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinwoo-nam-21600212)](https://www.linkedin.com/in/jinwoo-nam-21600212)
 	
 <!-- [![Tstory Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://mapadubak.tistory.com/)](https://mapadubak.tistory.com/) -->
