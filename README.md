@@ -6,6 +6,7 @@
 ## Interests
 
 * Django, DRF, FastAPI
+* Nextjs, React
 * Docker, K8s, Golang
 * LLM, AI applications
 * Real-world problem solving
